@@ -63,3 +63,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Dev
 
 Develop by Lowis Armando Hutabarat
+Gettin Edit start now 01 January 2026
